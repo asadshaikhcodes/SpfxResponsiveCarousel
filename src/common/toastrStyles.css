@@ -1,0 +1,10 @@
+/* toastr styles */
+
+#toast-container {
+    z-index: 99999999999999999 !important;
+    font-family: "Segoe UI Web (West European)", Segoe UI, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif !important;
+}
+
+#toast-container>div {
+    opacity: 1 !important;
+}
