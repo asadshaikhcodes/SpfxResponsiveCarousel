@@ -21,7 +21,9 @@
     "react": "16.8.5",
     "react-bootstrap": "^1.4.3",
     "react-dom": "16.8.5",
-    "react-responsive-carousel": "^3.2.12"
+    "react-responsive-carousel": "^3.2.12",
+    "react-slick": "^0.28.0",
+    "slick-carousel": "^1.8.1"
   },
   "devDependencies": {
     "@types/react": "16.8.8",
